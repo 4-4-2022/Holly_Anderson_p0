@@ -1,7 +1,7 @@
 # Plant Stop
 #### Holly_Anderson_p0 - Revature 
 
-Plant Stop streamlines the process of buying and cultivating plants. This simple business application features banking controls, accessible care tips for each purchase, and allows accounts to have secondary users with dynamic limited capabilities. Just in case you...ya know...plant stop killin' your moms vegitation?
+Plant Stop streamlines the process of buying and cultivating plants. This simple business application features banking controls, accessible care tips for each purchase, and allows accounts to have secondary users with dynamic limited capabilities. 
 
 ## Plant Stop API
 ### Format and Metrics
