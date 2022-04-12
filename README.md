@@ -1,9 +1,7 @@
 # Plant Stop
 #### Holly_Anderson_p0 - Revature 
 
-Plant Stop streamlines the process of buying and cultivating plants. This simple business application features banking controls, accessible care tips for each purchase, and allows accounts to have secondary users with dynamic limited capabilities. 
-
-## Plant Stop API
+## API
 ### Format and Metrics
 A Maven project built using Java 8.
 
@@ -41,3 +39,6 @@ Modifying account balances and users' personal information
 - Log4J/Logback
 - PostgreSQL
 - JDBC
+
+## Purpose
+Plant Stop streamlines the process of buying and cultivating plants. This simple business application features banking controls, accessible care tips for each purchase, and allows accounts to have secondary users with dynamic limited capabilities. 
