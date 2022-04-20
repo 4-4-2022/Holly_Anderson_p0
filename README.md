@@ -3,7 +3,7 @@
 
 ## API
 ### Format and Metrics
-A Maven project built using Java 8. All interaction with the user done through the console using the Scanner class. AWS RDS hosts the DB. All information persisted using a SQL database -- PostgreSQL.
+A Maven project built using Java 8. All interaction with the user done through the console using the Scanner class. AWS RDS hosts the DB. All information persisted using PostgreSQL, a SQL database.
 
 ### Future Improvements
 - You should use the DAO design pattern with JDBC for data connectivity.
